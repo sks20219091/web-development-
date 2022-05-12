@@ -1,0 +1,17 @@
+h1{
+    color: aqua;
+}
+img:hover{
+    background-color: gold;
+}
+.Bacon{
+    background-color: green;
+
+}
+.Brocolli{
+    background-color: red;
+    size: 40px;
+}
+.heading{
+    color: coral;
+}
